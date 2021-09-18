@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@notionhq/client": "^0.3.2",
+    "argparse": "^2.0.1"
+  }
+}
